@@ -24,7 +24,7 @@ The project utilizes multiple professional resources:
 - **Treatment Principles**
 - **Ethical Foundations of Psychology**
   
-###Set up your API key:
+### Set up your API key:
 Replace "API_KEY" in main() with your Google AI API key
 
 ## 🛠 Technologies Used
